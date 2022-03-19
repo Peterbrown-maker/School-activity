@@ -1,0 +1,27 @@
+#table:hover{
+    font-size:x-large ;
+}
+h1{
+    color:white;
+    text-align:center;
+}
+body {
+    background-image: url("https://www.indivstock.com/static36/preview2/stock-photo-binary-code-background-560890.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+h3 {
+    Color: white;
+}
+
+img {
+    width: 40px;
+    height: 30px;
+}
+
+table tr td {
+    border: 1px solid white;
+}

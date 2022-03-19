@@ -1,0 +1,59 @@
+ul{
+    list-style-type:none;
+    background-color:rgba(0,0,0,0.5);
+    overflow: hidden;
+}
+li{
+    float:right;
+}
+li a{
+    display: block;
+    text-decoration:none;
+    padding:16px;
+    color:white;
+}
+#tutlogo{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    border:2px solid black;
+
+}
+#tutlogo:hover{
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    
+
+}
+#R:hover{
+    font-size:x-large;
+    color:orange;
+}
+body{
+    background-image:url("./images/pexels-cameron-yartz-6921209.jpg");
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-color:rgba(0,0,0,0.5);
+}
+footer {
+    list-style-type: none;
+    background-color: transparent;
+    
+    margin-top:350px;
+  }
+  p{
+      color:white;
+  }
+  #picF{
+      width:40px;
+      height:40px;
+      border-radius:50%;
+
+  }
+  #picF:hover{
+    width:70px;
+    height:70px;
+  }
